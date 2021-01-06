@@ -9,7 +9,7 @@ Livewire/Alpine.js
 Laravel: V8.12
 
 ## Install
-    <'composer install'>
+    composer install
 or
     composer update
     mpm install && npm run dev
