@@ -1,4 +1,4 @@
-## Api Sample Project with Laravel/Tailwind CSS.
+## Api Sample Project With Laravel/Tailwind CSS.
 Search For Movies, TvShows, Persons. 
 Watch Most Popular Movies And TvShows.
 
