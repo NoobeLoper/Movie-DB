@@ -19,8 +19,8 @@ Then
 ```npm install && npm run <option>```
 
 ## Get Data
-برای گرفتن داده از ای پی آی
-This Project Use <a hrfe="www.themoviedb.org">TMDB</a> Api. Go to their website and sign-up, Then get API key. Make .env file in project and insert TMDB_TOKEN=<Your API Key>.
+برای گرفتن داده از ای پی آی  
+This Project Use <a hrfe="www.themoviedb.org">TMDB</a> Api.  Go to their website and sign-up, Then get API key.<br/> Make .env file in project and insert TMDB_TOKEN=<Your API Key>. <br/>
 Make sure that you generate:key in your project.
 
 # Enjoy
@@ -33,7 +33,7 @@ Tailwind Css Documantation :point_right: <a href="https://tailwindcss.com/docs/g
 
 Any suggestions for improvement are more than welcome :bug: :hammer:
 
-#### نکته مهم اینکه: ای پی آی سایت مبدا برای آی-پی ایران کار نمی کند
+##### نکته مهم اینکه: ای پی آی سایت مبدا برای آی-پی ایران کار نمی کند
 
 ## License
 
