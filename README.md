@@ -9,11 +9,11 @@ Livewire/Alpine.js
 Laravel: V8.12
 
 ## Install
-frist
-    composer install
-or <'composer update'>
-then
-    npm install && npm run dev
+First ```composer install```
+
+Or ```composer update```
+Then
+    ```npm install && npm run dev```
 
 ## Something Wrong?
 Tailwind Css Documantation :point_right: <a href="https://tailwindcss.com/docs/guides/laravel">Here</a>
