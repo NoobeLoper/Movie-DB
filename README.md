@@ -8,8 +8,8 @@ UI Customization: Tailwind CSS V2.0.1 /
 Livewire/Alpine.js
 Laravel: V8.12
 
-##Install
-    composer install
+## Install
+    <'composer install'>
 or
     composer update
     mpm install && npm run dev
