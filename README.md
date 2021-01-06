@@ -1,10 +1,10 @@
-## Api Sample Project with Laravel/Tailwind CSS
-Search For Movies, TvShows, Persons ,...
-Watch Most Popular Movies And TvShows
+## Api Sample Project with Laravel/Tailwind CSS.
+Search For Movies, TvShows, Persons. 
+Watch Most Popular Movies And TvShows.
 
 ## Framework/UI/UX
 
-UI Customization: Tailwind CSS V2.0.1
+UI Customization: Tailwind CSS V2.0.1 /
 Livewire/Alpine.js
 Laravel: V8.12
 
