@@ -10,9 +10,9 @@ Laravel: V8.12
 
 ## Install
     composer install
-or.
-    composer update
-    mpm install && npm run dev
+or <'composer update'>
+then
+    npm install && npm run dev
 
 ## Something Wrong?
 Tailwind Css Documantation :point_right: <a href="https://tailwindcss.com/docs/guides/laravel">Here</a>
