@@ -1,5 +1,3 @@
-#### نکته مهم اینکه: ای پی آی سایت مبدا برای آی-پی ایران کار نمی کند
-
 ## Api Sample Project With Laravel/Tailwind CSS.
 Search For Movies, TvShows, Persons. 
 Watch Most Popular Movies And TvShows.
@@ -35,6 +33,7 @@ Tailwind Css Documantation :point_right: <a href="https://tailwindcss.com/docs/g
 
 Any suggestions for improvement are more than welcome :bug: :hammer:
 
+#### نکته مهم اینکه: ای پی آی سایت مبدا برای آی-پی ایران کار نمی کند
 
 ## License
 
