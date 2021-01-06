@@ -8,6 +8,16 @@ UI Customization: Tailwind CSS V2.0.1 /
 Livewire/Alpine.js
 Laravel: V8.12
 
+##Install
+    composer install
+or
+    composer update
+    mpm install && npm run dev
+
+## Something Wrong?
+Tailwind Css Documantation :point_right: <a href="https://tailwindcss.com/docs/guides/laravel">Here</a>
+
+
 ## Make It Better
 
 Any suggestions for improvement are more than welcome :bug: :hammer:
