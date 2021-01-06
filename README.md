@@ -9,7 +9,7 @@ Livewire/Alpine.js
 Laravel: V8.12
 
 ## Install
-نصب ساده
+
 ```composer install```
 
 Or 
