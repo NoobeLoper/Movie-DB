@@ -1,11 +1,12 @@
-## Api Sample Project With Laravel/Tailwind CSS.
-Search For Movies, TvShows, Persons. 
+## Api Sample Website / Laravel
+
+Search For Movies, TvShows, Persons.<br/> 
 Watch Most Popular Movies And TvShows.
 
 ## Framework/UI/UX
 
-UI Customization: Tailwind CSS V2.0.1 /
-Livewire/Alpine.js
+UI Customization: Tailwind CSS V2.0.1<br/>
+Livewire/Alpine.js<br/>
 Laravel: V8.12
 
 ## Install
@@ -22,7 +23,7 @@ Then
 
 This Project Use <a href="www.themoviedb.org">TMDB</a> Api.<br/>Go to their website and sign-up, Then get API key.<br/> Make .env file in project and insert TMDB_TOKEN=Your API Key.<br/>Make sure that you generate:key in your project.
 
-# Enjoy
+# Enjoy!
 
 ## Something Wrong?
 Tailwind Css Documantation :point_right: <a href="https://tailwindcss.com/docs/guides/laravel">Here</a>
