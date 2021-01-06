@@ -1,3 +1,17 @@
+##Api Sample Project with Laravel/Tailwind CSS
+Search For Movies, TvShows, Persons ,...
+Watch Most Popular Movies And TvShows
+
+##Framework/UI/UX
+
+UI Customization: Tailwind CSS V2.0.1
+Livewire/Alpine.js
+Laravel: V8.12
+
+##Make It Better
+
+Any suggestions for improvement are more than welcome :bug: :hammer:
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -55,6 +69,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
 
 ## License
 
