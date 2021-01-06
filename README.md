@@ -15,7 +15,7 @@ Or
 ```composer update```
 
 Then
-```npm install && npm run dev```
+```npm install && npm run <option>```
 
 ## Something Wrong?
 Tailwind Css Documantation :point_right: <a href="https://tailwindcss.com/docs/guides/laravel">Here</a>
