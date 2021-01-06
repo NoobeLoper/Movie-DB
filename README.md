@@ -20,7 +20,7 @@ Then
 
 ## Get Data
 
-This Project Use <a href="www.themoviedb.org">TMDB</a> Api.  Go to their website and sign-up, Then get API key.  Make .env file in project and insert TMDB_TOKEN=Your API Key.  Make sure that you generate:key in your project.
+This Project Use <a href="www.themoviedb.org">TMDB</a> Api.<br/>Go to their website and sign-up, Then get API key.<br/> Make .env file in project and insert TMDB_TOKEN=Your API Key.<br/>Make sure that you generate:key in your project.
 
 # Enjoy
 
