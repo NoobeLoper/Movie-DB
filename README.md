@@ -10,7 +10,7 @@ Laravel: V8.12
 
 ## Install
     composer install
-or
+or.
     composer update
     mpm install && npm run dev
 
