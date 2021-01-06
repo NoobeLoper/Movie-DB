@@ -9,6 +9,7 @@ Livewire/Alpine.js
 Laravel: V8.12
 
 ## Install
+frist
     composer install
 or <'composer update'>
 then
